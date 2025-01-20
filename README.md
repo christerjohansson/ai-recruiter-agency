@@ -1,3 +1,5 @@
+![AI Recruiter Agency](AIRecruiter.png){width=800 height=320}
+
 # 🤖 AI Recruiter Agency: Your Smart Hiring Assistant
 
 Welcome to the future of recruitment! The AI Recruiter Agency is a cutting-edge Streamlit web application that revolutionizes the hiring process using advanced AI technologies.

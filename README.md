@@ -30,7 +30,7 @@ Get the AI Recruiter Agency up and running in no time:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ai-recruiter-agency.git
+   git clone https://github.com/christerjohansson/ai-recruiter-agency
    cd ai-recruiter-agency
    ```
 
